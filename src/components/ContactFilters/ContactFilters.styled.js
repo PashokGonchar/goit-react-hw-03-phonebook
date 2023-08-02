@@ -6,7 +6,7 @@ flex-direction: column;
 `
 export const FilterLabel = styled.label`
 font-size: 34px;
-padding-bottom: 20px;
+padding-bottom: 25px;
 `
 
 export const FilterInput = styled.input`
